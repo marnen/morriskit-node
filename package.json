@@ -1,0 +1,14 @@
+{
+  "name": "morriskit-node",
+  "version": "0.0.1",
+  "author": "Marnen E. Laibow-Koser <marnen@marnen.org>",
+  "dependencies": {
+    "geddy": "0.3.x",
+    "coffee-script": "1.2.x",
+    "jade": "0.20.x",
+    "mongoose": "2.5.x"
+  },
+  "engine": {
+    "node": "0.6.x"
+  }
+}
